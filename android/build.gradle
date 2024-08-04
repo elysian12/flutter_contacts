@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 android {
     compileSdk 34
 
-    namespace 'dev.fluttercommunity.plus.sensors'
+    namespace 'dev.fluttercommunity.plus.sensors1'
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_17
